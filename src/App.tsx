@@ -8,7 +8,7 @@ function App() {
     <Navbar/>
     <section className="min-h-screen w-full relative 
     bg-gradient-to-r from-fuchsia-500  via-red-400 to-orange-600
-    flex items-center justify-center text-white">
+    flex items-center justify-center text-white dark:bg-black">
       <AuroraBackground >
       <div className="text-center space-y-5 max-w-2xl z-8">
         <p className="py-1 px-2 bg-zinc-900/40 backdrop-blur-md
